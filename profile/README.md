@@ -1,5 +1,10 @@
 ## Lang Chat 🆙💬👋
 
+- lang chat 에 대한 설명, 개요 및 기술스택 등
+- backend, android 레포 명시
+- 구성원 설명
+- 회의록?  
+
 <!--
 
 **Here are some ideas to get you started:**
