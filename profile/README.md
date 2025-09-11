@@ -3,7 +3,9 @@
 - lang chat 에 대한 설명, 개요 및 기술스택 등
 - backend, android 레포 명시
 - 구성원 설명
-- 회의록?  
+- 회의록?
+- 협업도구 (Postman: API 명세, Figma: 디자인, Discord: 커뮤니케이션, Git: 버전관리)
+
 
 <!--
 
