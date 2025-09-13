@@ -48,7 +48,7 @@
 | Category | Technology |
 |:---:|---|
 | **Backend** | ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.25-7F52FF?logo=kotlin) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.4-6DB33F?logo=spring) ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6.1.10-6DB33F?logo=spring) ![R2DBC](https://img.shields.io/badge/R2DBC-1.0.0-6DB33F) ![WebSocket](https://img.shields.io/badge/WebSocket-white?logo=websocket) |
-| **Android** | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android) ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.25-7F52FF?logo=kotlin) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000000?logo=jetpackcompose) |
+| **Android** | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.25-7F52FF?logo=kotlin) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000000?logo=jetpackcompose) |
 | **Database**| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
 | **Infra** | ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?logo=amazonec2) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx) |
 
